@@ -1,9 +1,3 @@
-# TESTE TRABALHANDO COM GIT/versionamento
+# Fase 1 Santander Coders
 
-# Gravando mudanças nesse repositório
-
-## Já fiz meu primeiro commit
-
-* Já fiz o restore
-
-* comando git push
+## Repositório de testes para aula 1
